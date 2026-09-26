@@ -1,0 +1,28 @@
+EyeCare AI / DR Healthcare — Phase 10N Patch Manifest
+========================================================
+
+Phase: Doctor Credential & Privilege Manager
+Prepared: September 2026
+
+SHA-256 checksums:
+9cec1f99f33f45324046f387a292c88dbde9f0f4240a367fa38bb7fdcb698427  ./PHASE10N_DOCTOR_CREDENTIAL_PRIVILEGE_MANAGER_README.txt
+344ee677f8f2e10423e6b06e3ca61cd36ca80aca64c63b3243c36f1ecd691c2d  ./backend/access_control.py
+379e1fb11b93898490a23ffdb8692a0d79fd3ff60003f6ed85a52378e7db087c  ./backend/consultation_service.py
+42f455d7081075224ceec9ef6025a63707383e15121060c462e30c959d975d3b  ./backend/credential_privilege_service.py
+06a444473990fb0dd47d8418e0aae20770a896ecf53a3b255b8f9a99dcdeeedd  ./backend/database.py
+4a99ef1cd0aa4623fe6a0e33bb19286700f2cdf1e682362e37c6c87b3bb8f090  ./backend/main.py
+c8117708f534c613059e9b49fafc7dccebfd05ed6269aaab3bf22d4ec3b3fc1b  ./backend/routers/consultations.py
+515056610bf2620e9483c54ef8af8336015c1b8e468ebb51b1b7988c9aa5b279  ./backend/routers/credentials_privileges.py
+618349335ba6170dd6f7d39c53556d29d0cba1c1cd55ce1642ea90a136ab0fe3  ./backend/routers/superadmin.py
+8de14c18e83f9d27422b7e6ebd2c388432a6ecdd8187c5b88ecbda6a9d067d90  ./frontend/app/doctor/consultation/[id].tsx
+71710cdff8ef27669d696e2d2147c56222ee0f69103a28243fb5bca6d4cfa8fe  ./frontend/app/doctor/privileges.tsx
+d5a134b6a9ff5a7f842c91848c77d06478c546d329450982cc9efc43c96f5320  ./frontend/app/hospital/dashboard.tsx
+66dc37c65d93983a09f89c343239cc390f89d0977c8aa658de3f813a0d74c1b4  ./frontend/app/hospital/doctors/[doctorId]/index.tsx
+a1c55c87e376b175ae3e5886340835424375daf34e58879f55cc45b3ed2b2ece  ./frontend/app/hospital/doctors/index.tsx
+ea99a5b9e1a60c5f1dc5e5ea0a3ff2ac25ec14308c972b7a6f2206a4709d7b4b  ./frontend/app/notifications.tsx
+b3d86e0fc7184e4d796d5b6ca7a46040cde0f163e00d4f09f89d8705b8d9f93f  ./frontend/app/superadmin/verification/[id].tsx
+0d67c000200c535a1dfbb6d3d0d80aeafc99b92da0346aaa386ad6bbfa6efb13  ./frontend/design/components/AppShell.tsx
+451c07ed67944e41739b215d6c73b683ab4c74f55c6f477439c7e885cca732ca  ./frontend/services/consultations.ts
+dcf746cdd5ab931aec9b24441eb2519fe652530f9168edb48719f2bea0bab361  ./frontend/services/credentialsPrivileges.ts
+d56fa448878f2fcf4c485ccbf10530d9c4e4c97bed0e7124bdcfffe618f0c3a2  ./frontend/services/notification.ts
+11e65298cade7482ee2220b152f2c54e4dbd0ec8cf4e4d1932af298cdc1f0729  ./frontend/services/superadmin.ts

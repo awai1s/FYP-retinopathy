@@ -1,0 +1,19 @@
+EyeCare AI Phase 10A Patch Manifest
+====================================
+
+SHA-256 checksums:
+
+fd78c0cbc72c0f0da4aa3b2c7ffac8090727b5c3b9c45e1555242fbafd64bade  PHASE10A_SECURITY_PATCH_README.txt
+95438516a30d26d374c491e6966a456fa028bce16b0804e0c2c4e2ebfa961088  backend/.env.phase10a.example
+e9153a37b1bcc2ae6f94a8f16f68e338e2197ad319283c16c4cfcc4513ee680c  backend/access_control.py
+ceb856b3c0292c3ace402d32d6c62163bda98cea941d4e59e53ea1f0fff73e62  backend/access_log_service.py
+71cdaaa2306c0d922634bec03aea79e479f3e8122f067fcd88c4ef4ed94805e8  backend/config.py
+79eda402b85db3e49255a687cd17fee772478366d98e4ff38b0ef95cface96c5  backend/database.py
+8dfde8d07612ab86b00ab9bb3e81fd942dbaad0779b03617d92dbdabffc15f61  backend/dependencies.py
+49f712934abce97ee5999222e1dff47a55fa2a2c87a6eb4e91a71777ac50f6c4  backend/main.py
+fdef9e9293c32926d25cc709ba183b15e30d592c40c9c1c04fbb8ebc86a4e386  backend/routers/ai_assistant.py
+8583381b823952de73043f9b34dd39e690677edbeec289fefced2b450a5ebdeb  backend/routers/doctor.py
+bdcc61320a1abb3134256df9f4638bad215d62ca4a223e0d4f2536044c878a00  backend/routers/hospital.py
+19a9303f94a8b967f14abff6477559ac5c9ef89d0c9e60355dc29a40bbeaa8df  backend/routers/reports.py
+2e35b9cfd9a464807ae5757996acf979296418b18b7aef4f87e05ad489955fe7  backend/routers/shared.py
+46f862c8d0815d04ef76f348ac287d0d49d42fbe251211ddd4f1f21bcb401285  backend/storage.py

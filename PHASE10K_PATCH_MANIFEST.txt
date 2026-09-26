@@ -1,0 +1,15 @@
+EyeCare AI / DR Healthcare — Phase 10K Patch Manifest
+
+Files included:
+9
+
+SHA-256 per file:
+efcd2e7f5c0c3145ae49d524e18eeefd9a15f617c62067349d0b706f13b797e5  PHASE10K_VISION_EXPERIENCE_SIMULATOR_README.txt
+05098f75e8d0a2f5290e31ad23b4575488bdee8b14e89e8933b11b9e1c7dc3c1  frontend/app/education/index.tsx
+89be9cc37d9c11115e6321b8602d71ff35d5db92a16a3a562a7bcd17d900aa31  frontend/app/result.tsx
+864fd86613b65f4bd9f32fbe3fd58b0db927b7dc433def45e4a1fa80b3ad4255  frontend/app/tabs/dashboard.tsx
+f2460afd9509d0e0cdc41ad769f0f7dbf6d598d5e6b0b4e4ec90552df83dbc05  frontend/app/vision-simulator.tsx
+7a42beb3d93ed75f801adec6a88b32dd3f81a37e333ec859a3da03667db3c3da  frontend/components/vision-simulator/SceneArtwork.tsx
+136b5371a735699addb4db3bbd26738096f78f93ed4700fc4eb3093f9f6c91d9  frontend/components/vision-simulator/SimulationCanvas.tsx
+29430bb205be95908492174254abfc9cc8e3664f9f53b4eb10eb20c753d6b7d8  frontend/content/visionSimulationPresets.ts
+be5fad0bff37bf6ca58dc9a7a91e634411977951f8174321239766151b41ce56  frontend/design/components/AppShell.tsx

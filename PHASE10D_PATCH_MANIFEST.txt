@@ -1,0 +1,21 @@
+EyeCare AI / DR Healthcare - Phase 10D Patch Manifest
+======================================================
+
+Files included (excluding this manifest): 15
+
+SHA-256 per file:
+718e4dde029d01be4fd32e8168c55e86c80b4907065385fbbdbdb68c7c8c6499  backend/.env.phase10d.example
+45c5f4b985a1b4a49823ce9c1ddf7bdae1f1a9f14de0fb6828eccb8f82f47630  backend/connection_service.py
+6f511a47e16b07e1f85c863168e3365de53b092a492d41b01f634f00aaea4041  backend/database.py
+adc952f9dee10cdbabf941d3752ab0634802b7b970ee8275bc7bcb1495a7f62d  backend/main.py
+6e7f4ea04b2f76caa8c10d596fbb8b3d56ed22aafbca3ce917424b61f6761184  backend/routers/appointments.py
+7704ae3f26b6e87f76c16d3a4594bdea7c18f6ed2e0d2947bdd32805f905edd1  backend/routers/connections.py
+bd3581c453b9b6181d7f115e5724a7efbbdf038cac7c09f04bfd36d565befdd2  frontend/app/book-appointment.tsx
+d1c98d29d9e02a37e624407dda4737ae96bd4e1b15d8ff8b4ff8ee8b430c87e0  frontend/app/doctor-profile.tsx
+63f7bc31ddeac8ad38c8e6fc1e5ade4d45ab9c821642264d4294a12a3ef68d52  frontend/app/doctor/search-patient.tsx
+7ecd6acafd74d7ca7effc9183707a568dab5caea39d1285af3c69890842ff4bf  frontend/app/notifications.tsx
+4f6628ddbaf3dd961ab23034b68f48efa6d649ed9c292e731c9a6cdd6b68187f  frontend/components/ConnectionScreen.tsx
+7ebb0bb2642abe70067ac73e2b588cd194ae64db05b8396c0c301a527e678d6d  frontend/design/components/AppShell.tsx
+cb5dc40732e14c0dc425d540e76767b632e0ee90005de631669eda283f698016  frontend/services/connections.ts
+23e5dc828bf47c1b049f35a4537c8a840a6a588fc65eff31c64a73ea2edf4152  frontend/services/notification.ts
+a3d778812cc281c4b6bf64ee158b5e6c76c860272dba4e36d3fef5ed0743e1f0  PHASE10D_CARE_CONNECTIONS_README.txt

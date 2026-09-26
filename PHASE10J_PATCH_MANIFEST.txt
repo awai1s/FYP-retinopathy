@@ -1,0 +1,18 @@
+EyeCare AI Phase 10J Patch Manifest
+====================================
+
+Files included: 13
+
+SHA-256 per file:
+4c2c2ed5b0dc20da66a9b47f874324d3cb005d33b1d12bb889812eccf737d26a  backend/consultation_service.py
+e9981ec54d7f8aea95b221ad52cc6c79238d4efc2a5f489d32d3075dce3935a1  backend/main.py
+f20a4360d1d78a0e7ae74747f17d2706de3d7a26d2f155b2ff3df2ca5882440a  backend/routers/education.py
+7c7b3dbd549663e00d3eae7fa7551adf473cf378043c7f2604a5d97d282084f1  frontend/app/doctor/consultation/[id].tsx
+b5c39a8bbb39c2f4b4eb72c196d34076216b2badf0a5007110007fc67920e71c  frontend/app/education/[id].tsx
+c34cef3f4e6a3ee3ea7bb01fac5dab48bd673fb02b1fcaa69cec7be1770c2beb  frontend/app/education/index.tsx
+495b3a5965724268a49bd38e2274cd745a282d79b3f0c670b303987980feff04  frontend/app/tabs/dashboard.tsx
+2ea449d683f16de4d56a9604dcfcceecdf1d4617adc383cfa5ec8b3397723b77  frontend/components/education/EducationArtwork.tsx
+4d1839ee3142f0f2cc09ba8f357fb9b73c3183588119a6902a350dc56de17c17  frontend/content/educationContent.ts
+c34d3fd3ebe52675cc22ca9333af442345c363f0db0d2fff7fea5aeda9c80d74  frontend/design/components/AppShell.tsx
+2ab1037a2bf61195c717ae9a8120d1ea28e3e7eaa06bc0a9bf5ad1c7aa026f1c  frontend/services/education.ts
+e4586f98937ed5b97040ada3592bb775cba38b03507000e30713a4571313a4c7  PHASE10J_EYE_HEALTH_EDUCATION_README.txt

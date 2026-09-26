@@ -1,0 +1,23 @@
+EyeCare AI / DR Healthcare — Phase 10M Patch Manifest
+========================================================
+
+Files included (excluding this manifest): 17
+
+SHA-256 per file:
+fd655f233b006fb80949edefe3d37f3735be38382b06418a3885d3365bba8856  PHASE10M_HOSPITAL_EQUIPMENT_README.txt
+be3d6fb9edd77dfa5f157c7d67511f60612f641c20d2fb6f40b73609ee3fb162  backend/database.py
+6fd323a6eaaf8aca6b311314d0b350705d7b94ece3f75b9f154f43c76322fa02  backend/equipment_service.py
+c0e16c46b9e7cbd5de67f0f7ee6fbdbee0a0fc41e7fc1f6d6de338c3b1e36e24  backend/main.py
+0aeb8e548d5ce24cb9107553c0af99dade362ccce03f365aadd426fadc9a5945  backend/routers/equipment.py
+b4cd821565b55f0496d992e4aceff10fcf7438e00b3238fa1f3376f0e27203d3  backend/routers/notifications.py
+25014106cf435c0db93cff6a3b263baed47f601238254c24aee924c23a865f72  frontend/app/hospital/dashboard.tsx
+90437e111bb720ff6574228fda6713ae6c2047f2dc9a21d131d9a68f1d6eb006  frontend/app/hospital/equipment/[id]/edit.tsx
+cd1070989442e513759ad593475f86eb8ace62aae00c4dba5223b746cf90bb30  frontend/app/hospital/equipment/[id]/event.tsx
+8ea1eadbd76f968bcb67fcfa50a419555ae53790faeaed186351b7ab35569607  frontend/app/hospital/equipment/[id]/index.tsx
+b43230701610f50abc50f98c2d955fc9b7daa21efc4ebc1857b055ca90d95e5e  frontend/app/hospital/equipment/index.tsx
+5a455ef41d71a6d9a0a7c7871e7db643e694029989e8d5a6d1aed4502e2fa2ef  frontend/app/hospital/equipment/new.tsx
+0b8eed8513ddf708c9cc73a85b747eadabc0794d174cfbb186e68a26c8c4c5a9  frontend/app/notifications.tsx
+6bf6b33d33627c09d8e5be6388042aabe09abb8dfe7b4436b729fce2e32dbf57  frontend/components/hospital/EquipmentForm.tsx
+ebba444f7c225ffddbbb7a9a47c719e17de736b97d9617fb454f411208af3de6  frontend/design/components/AppShell.tsx
+851b86c64c5abaede008f87f0585202dc9ff63e7ff6113f7443d620c5ee8994e  frontend/services/equipment.ts
+b5d16043e68762ae19ac2f80255063682b9c4bba3ce191a0a5fbab6ae7e2c855  frontend/services/notification.ts

@@ -1,0 +1,17 @@
+EyeCare AI Phase 10G Patch Manifest
+====================================
+
+SHA-256 checksums:
+551b1db8e9155d7c11fd628fb4cd635c12f8f0c46de60b6115915ce56a87f2d5  PHASE10G_MEDICATION_RECONCILIATION_README.txt
+7a47ac36d6d452d52769e83c33984e27e89bcf7afb283f3cb091ecbcf6761724  backend/consultation_service.py
+e31950693c1e392f6d47ce2121adc702925a9e095f24c0a758fc360f62857f0f  backend/database.py
+264784b5fd236434120c28ab29197000b96cb6a68e0a366dc0eb61b302952731  backend/main.py
+c20a4b5a2e82a441b3a1acb0a8a4466ccb36005455dfdb892a0a96683b3a7398  backend/routers/medication_reconciliation.py
+9879c01be42fc1c43378e8c976b63e525eb88c5036769a0025091480088b9993  backend/routers/patient.py
+0b1da270d5172951902ad12733954d265d94389f848883559ca383bb218dbde5  frontend/app/doctor/consultation/[id].tsx
+35fac156729b2dd50756ec01ef4298163e70bc4fe254aa2062d6f93aeecb5fc9  frontend/app/doctor/medication-reconciliation/[id].tsx
+c9c2d76e2f2384d660ff8ee56c49bcc355dfe7eaeda06f03268906672d2e650d  frontend/app/prescriptions.tsx
+1f5e7e5c7e3bc9650f7ca7d777f72bf16268594cd32ca47e03b686eeb5b498b2  frontend/app/visit-summary/[id].tsx
+278541fa28a61650bdfc3b01ee32b3de3291e7bb59fdc35b725337da913108b6  frontend/services/consultations.ts
+6659bbea55f75253044d2d85f813ec18e979fd24bae1437706a24646a8536052  frontend/services/medicationReconciliation.ts
+502131004007242b3b29b5c1a3f51deeaf7da374333e821245cc781767f6c4e9  frontend/services/prescriptions.ts

@@ -1,0 +1,19 @@
+EyeCare AI / DR Healthcare — Phase 10I Patch Manifest
+===================================================
+
+Files included: 14
+
+SHA-256 per file:
+ada018a95d3fb719b80587ebfaf1ab7c48a54e451deb74472d16c9192db3f86e  backend/database.py
+39b716a8245eedd0369b90c88cbaae0d76dc2994ebf182809c83d9680404518c  backend/main.py
+7817e6bc08c0ebf06389326ddcd735a27c4f185a80edca9afe428d1b695cdc51  backend/routers/vision_prescriptions.py
+acf25e151e8344aa7be0de378e0bde896a514a95dceff2ae5aeeb0bcbb7e1414  frontend/app/notifications.tsx
+0ed0e3d4da79052d63fba8b2678e33dd923d18c29345b0a72a407866e7d98ee9  frontend/app/tabs/profile.tsx
+cae2bd70473ebe85dbc54a4977f560689e59ab1ba0e653e564c72d2de7067d72  frontend/app/vision-vault/[id].tsx
+cf938bf1c21d851735b6f66e05da0f4803a3f3713c8cd242a760a199e140b7b3  frontend/app/vision-vault/add.tsx
+b12674878f33be7ad10aeb94444ad707b848cc4857ae7567a008987f83257861  frontend/app/vision-vault/index.tsx
+be5c237af2be341348f96e17795969f2ec869b54abf8d65fe07d5dfff35dcd8a  frontend/design/components/AppShell.tsx
+3a01f67a4c73001ca1dad5ac6eba8725e2661e26af59199c20a12fbae2765d95  frontend/services/notification.ts
+b48a209e9a140166a7c2c345edfa21b3b322abd8c50204ba0002a154ef36af72  frontend/services/visionPrescriptionNotifications.ts
+23895e44b7ed1c2e8a118849a494b3c817308caeed0de75585c23d72e5b43e31  frontend/services/visionPrescriptions.ts
+7a728d6cfa7de4b8f5fb9cef2a7d477dfd0dc7ea897cb88cde67c64d7f8014e6  PHASE10I_VISION_LENS_VAULT_README.txt

@@ -1,0 +1,30 @@
+EyeCare AI / DR Healthcare — Phase 10L Patch Manifest
+=========================================================
+
+Files included before manifest: 24
+
+SHA-256 per file:
+ea110a960aad0fca766437700cbaec2c2876cfc7f56e3ddc5472c6e8997302d3  backend/routers/patient.py
+d0007565894d92b747cf2780670897d1bef7a2289f4bd8c3a53052b3d3087cab  frontend/app/_layout.tsx
+2cfd888f5406f5a36a0b7503e693d0b3ea182f1de37f5fc55ef504f7c48c2000  frontend/app/appointments.tsx
+3d6b563315569ad18927529c6c86ef3ea7d6aaf603bc0ab4a652449ec70bd8d5  frontend/app/book-appointment.tsx
+b630c92b3e51080a41670daf08d3122fd309d9a732b8f37dc01f82da1a0c26d9  frontend/app/education/[id].tsx
+9818d92083f08c853d35563948e829175e1c3ae1d88d0222ab51917a3c63fd97  frontend/app/health-card/index.tsx
+8ccacfed65aedaf3a3bb08b9ed367516dce88d44e07eea96a4144f0bee6c94e6  frontend/app/index.tsx
+70a3b2a9ccdb4b974b9fe7ff33bc1781fd6733be30e21df38d0241ef2596f6a3  frontend/app/offline.tsx
+6a6832c590721d343708fd94a192f5988ac88a5721cc1ffec9915e68cb958fad  frontend/app/tabs/dashboard.tsx
+7fdd03f26180b9058012124dc954182b2450c7ca3c8e2a8288dcb5717a88b585  frontend/components/LogoutButton.tsx
+6bcfb64929c9a162c95e17eded05b59fc0303b2227ebf53662bee8236bdb3d29  frontend/components/offline/OfflineStatusBanner.tsx
+98a11925776d1f9f1362670da7f54f0055350cecf8bb647822bf20c6d604ccc9  frontend/design/components/AppShell.tsx
+c64aa157e22bac96da66008cae5ba89ec67bf4365559891986296b69235eaf16  frontend/design/components/MobileSidebar.tsx
+e22873c96b4f7f65816cce017093e04fee4d8c073ea4db81497af98241f3d393  frontend/providers/NetworkProvider.tsx
+3b2a4d701d4ce52a0ebd73aa5818b1c515116d5a9edca48387d41bc6131e5d83  frontend/services/appointment.ts
+2985f2183f14806a38884f44d4a6c1e8666f8171076c7df480e6a258b5dd9834  frontend/services/auth.ts
+4cbcd95107dd2692e8f5aa83cf6bf0f6fa103f193f1970b231556bd62ac983cc  frontend/services/education.ts
+269fde9fe26c758b5f49a8040a951c139f1419f933ba20dd4de117f59eac3010  frontend/services/offlineBootstrap.ts
+2d009bb2414708d1e09a356b3c8b6d85b374f0a1e3b4cd28359920c5bddd0723  frontend/services/offlineCache.ts
+12ea52691840588d83f4a8de1cb399eb69f4972acaa086033e58f0f05bfe69b5  frontend/services/patient.ts
+04eaeca99e4b4d14837c2fba47136400ec8b5310e5a795841ec5df4a5fd3dc4c  frontend/services/prescriptions.ts
+18b0bb9e344b434afdfbde34f208958c8ed7fcec8987171ac861e45b8cb06152  frontend/services/privacy.ts
+4ec8aeced597e8cf3df8a289cb850deeb950d5fadb484265f66d7d395afd2f94  frontend/services/syncQueue.ts
+e55c4d6265f4d2d1bec06cdaf58a1febb5776f6225b7291cfdc984c368686d05  PHASE10L_OFFLINE_MODE_README.txt

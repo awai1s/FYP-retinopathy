@@ -1,0 +1,45 @@
+# Local credentials and machine-specific configuration
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.*.example
+Cluster mongo db.docx
+Supa base password.docx
+
+# Dependencies, caches, and build output
+**/.venv/
+**/venv/
+**/node_modules/
+**/__pycache__/
+**/.pytest_cache/
+**/.expo/
+**/dist/
+**/build/
+**/web-build/
+**/.vscode/
+*.py[cod]
+*.tsbuildinfo
+
+# Runtime logs and generated test records
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+backend/tests/last_demo_run.json
+backend/tests/last_results.txt
+backend/tests/demo-upload.png
+
+# Local backups and duplicate export snapshots
+.notebook/
+.phase10o-backup/
+digest.txt
+backend/backend.txt
+backend/backend 2.txt
+frontend/frontend.txt
+frontend/frontend 2.txt
+frontend/dr-healthcare-full.zip
+frontend/README.local-backup.md
+
+# OS/editor files
+.DS_Store
+Thumbs.db

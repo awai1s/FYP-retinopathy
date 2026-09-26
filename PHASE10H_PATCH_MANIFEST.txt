@@ -1,0 +1,17 @@
+EyeCare AI / DR Healthcare — Phase 10H Patch Manifest
+=======================================================
+
+Files included: 12
+
+SHA-256 per file:
+234a35fea03b8cd59e9430bfeb0bd72fd583f636086331945682dfbf0e97a28e  PHASE10H_DOCTOR_WATCHLIST_README.txt
+048a9c2028a791e6a3b883f49336286be52eef3f946756e1562ae40ff536c8ee  backend/database.py
+2d3a8ce2108c9aefe3639b1974cf067902974f8302b59c50f9db540890ea0ed9  backend/main.py
+7d2b7e8ef1e4aa99899dafe558471bbf205d29f5003c3bd0f945310868c631e4  backend/routers/watchlist.py
+83bf56f05167083f50601535da88d4b946d1625a65a5e4062908461e58dcdaf0  frontend/app/doctor/_layout.tsx
+dbea94f2af135c4439ca8ce40f627d595bf908af1dd059a44ac7a837f119b399  frontend/app/doctor/dashboard.tsx
+7012bb33468abd335fd87f652016801c0a97447ac7f0047c05b44c0092a8d105  frontend/app/doctor/patient-profile.tsx
+1a94642eba5987e8506b0d69635b7efab6f3a2cc043f8891d80908c372469dd0  frontend/app/doctor/watchlist.tsx
+210c1ad7865fe8dd0bf1c5aea43b40bc3a08edd868b73fc36a45ce8854dcefda  frontend/components/ConnectionScreen.tsx
+f180f6dc865b9cb5074b777140fbac251e860a6d422f16d3c8ed22ec0aef4284  frontend/design/components/AppShell.tsx
+180547d0fb187d1a3b0fa745198c3922c410535a3c7715267cfb50a97f4f328c  frontend/services/watchlist.ts
